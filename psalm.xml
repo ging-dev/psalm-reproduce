@@ -14,4 +14,7 @@
             <directory name="vendor" />
         </ignoreFiles>
     </projectFiles>
+    <stubs>
+      <file name=".stubs/ServiceEntityRepository.phpstub" preloadClasses="true" />
+    </stubs>
 </psalm>
