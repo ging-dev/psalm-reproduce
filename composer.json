@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "doctrine/doctrine-bundle": "^2.10"
+    },
+    "require-dev": {
+        "vimeo/psalm": "^5.14"
+    }
+}
